@@ -1,0 +1,13 @@
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\bin\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.exe
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\bin\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.deps.json
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\bin\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.runtimeconfig.json
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\bin\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.runtimeconfig.dev.json
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\bin\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\bin\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.csprojAssemblyReference.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.AssemblyInfoInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.AssemblyInfo.cs
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.csproj.CoreCompileInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\LAB 2 ASSIGNMENTS\obj\Debug\netcoreapp3.1\LAB 2 ASSIGNMENTS.genruntimeconfig.cache
